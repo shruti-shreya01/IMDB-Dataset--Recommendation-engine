@@ -30,6 +30,9 @@ Libraries:
 To run this project, you need to have the following libraries installed:
 
 pandas: For data manipulation and analysis
+
 nltk: For natural language processing
+
 sklearn: For machine learning algorithms and data preprocessing
+
 re: For regular expression operations
